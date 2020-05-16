@@ -1,0 +1,11 @@
+C:\Users\konst\source\repos\Serialization\NewClassModule\bin\Debug\netstandard2.0\NewClassModule.deps.json
+C:\Users\konst\source\repos\Serialization\NewClassModule\bin\Debug\netstandard2.0\NewClassModule.dll
+C:\Users\konst\source\repos\Serialization\NewClassModule\bin\Debug\netstandard2.0\NewClassModule.pdb
+C:\Users\konst\source\repos\Serialization\NewClassModule\bin\Debug\netstandard2.0\RPGclasses.dll
+C:\Users\konst\source\repos\Serialization\NewClassModule\bin\Debug\netstandard2.0\RPGclasses.pdb
+C:\Users\konst\source\repos\Serialization\NewClassModule\obj\Debug\netstandard2.0\NewClassModule.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\Serialization\NewClassModule\obj\Debug\netstandard2.0\NewClassModule.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\Serialization\NewClassModule\obj\Debug\netstandard2.0\NewClassModule.AssemblyInfo.cs
+C:\Users\konst\source\repos\Serialization\NewClassModule\obj\Debug\netstandard2.0\NewClassModule.csproj.CopyComplete
+C:\Users\konst\source\repos\Serialization\NewClassModule\obj\Debug\netstandard2.0\NewClassModule.dll
+C:\Users\konst\source\repos\Serialization\NewClassModule\obj\Debug\netstandard2.0\NewClassModule.pdb

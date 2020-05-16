@@ -1,0 +1,16 @@
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\bin\Debug\netstandard2.0\RPGclasses.deps.json
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\bin\Debug\netstandard2.0\RPGclasses.dll
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\bin\Debug\netstandard2.0\RPGclasses.pdb
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.csprojAssemblyReference.cache
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.AssemblyInfoInputs.cache
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.AssemblyInfo.cs
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.dll
+C:\Users\konst_9hggwum\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.pdb
+C:\Users\konst\source\repos\Serialization\RPGclasses\bin\Debug\netstandard2.0\RPGclasses.deps.json
+C:\Users\konst\source\repos\Serialization\RPGclasses\bin\Debug\netstandard2.0\RPGclasses.dll
+C:\Users\konst\source\repos\Serialization\RPGclasses\bin\Debug\netstandard2.0\RPGclasses.pdb
+C:\Users\konst\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.AssemblyInfoInputs.cache
+C:\Users\konst\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.AssemblyInfo.cs
+C:\Users\konst\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.dll
+C:\Users\konst\source\repos\Serialization\RPGclasses\obj\Debug\netstandard2.0\RPGclasses.pdb

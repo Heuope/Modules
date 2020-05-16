@@ -1,0 +1,22 @@
+﻿<Collection name="Root" type="System.Collections.Generic.List`1[[RPGclasses.Hobo, RPGclasses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+  <Properties>
+    <Simple name="Capacity" value="4" />
+  </Properties>
+  <Items>
+    <Complex type="RPGclasses.Mage, RPGclasses, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <Properties>
+        <Simple name="Mana" value="123" />
+        <Simple name="Name" value="hello" />
+        <Simple name="Health" value="12" />
+      </Properties>
+    </Complex>
+    <Complex type="NewClassModule.Berserk, NewClassModule, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <Properties>
+        <Simple name="Rage" value="123" />
+        <Simple name="Speed" value="123" />
+        <Simple name="Name" value="hi" />
+        <Simple name="Health" value="123" />
+      </Properties>
+    </Complex>
+  </Items>
+</Collection>
